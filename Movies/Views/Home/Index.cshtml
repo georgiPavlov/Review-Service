@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<h3>Welcome to Movie Reviews</h3>
+
+<div class="mdl-grid">
+    <div class="mdl-cell mdl-cell--4-col">
+        <div class="demo-card-square mdl-card mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand" id="catalog">
+                <h2 class="mdl-card__title-text homeLabel">Movies</h2>
+            </div>
+            <div class="mdl-card__supporting-text">
+                Write a review
+            </div>
+            <div class="mdl-card__actions mdl-card--border">
+                <a class="mdl-button mdl-button--colored" asp-controller="Movie" asp-action="Index">
+                    View Movie Reviews
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="mdl-cell mdl-cell--4-col">
+        <div class="demo-card-square mdl-card mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand" id="branches">
+                <h2 class="mdl-card__title-text homeLabel">New Content</h2>
+            </div>
+            <div class="mdl-card__supporting-text">
+                Create new Content
+            </div>
+            <div class="mdl-card__actions mdl-card--border">
+                <a class="mdl-button mdl-button--colored" asp-controller="Content" asp-action="Index">
+                    content
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="mdl-cell mdl-cell--4-col">
+        <div class="demo-card-square mdl-card mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand" id="branches">
+                <h2 class="mdl-card__title-text homeLabel">Login</h2>
+            </div>
+            <div class="mdl-card__supporting-text">
+                Login in account
+            </div>
+            <div class="mdl-card__actions mdl-card--border">
+                <a class="mdl-button mdl-button--colored" asp-controller="Login" asp-action="Index">
+                    Login in account
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="mdl-cell mdl-cell--4-col">
+        <div class="demo-card-square mdl-card mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand" id="branches">
+                <h2 class="mdl-card__title-text homeLabel">Registration</h2>
+            </div>
+            <div class="mdl-card__supporting-text">
+                manage accounts
+            </div>
+            <div class="mdl-card__actions mdl-card--border">
+                <a class="mdl-button mdl-button--colored" asp-controller="Registration" asp-action="Index">
+                    Register new account
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

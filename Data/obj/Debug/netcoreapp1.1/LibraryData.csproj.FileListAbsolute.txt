@@ -1,0 +1,16 @@
+C:\Users\Wes\Projects\LibraryDemo\Library\LibraryData\bin\Debug\netcoreapp1.1\LibraryData.deps.json
+C:\Users\Wes\Projects\LibraryDemo\Library\LibraryData\bin\Debug\netcoreapp1.1\LibraryData.dll
+C:\Users\Wes\Projects\LibraryDemo\Library\LibraryData\bin\Debug\netcoreapp1.1\LibraryData.pdb
+C:\Users\Wes\Projects\LibraryDemo\Library\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.AssemblyInfo.cs
+C:\Users\Wes\Projects\LibraryDemo\Library\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.dll
+C:\Users\Wes\Projects\LibraryDemo\Library\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.pdb
+C:\Users\Wes\Projects\LibraryDemo\Library\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.csprojResolveAssemblyReference.cache
+C:\Users\i336317\OneDrive - SAP SE\projects\library-management-system\LibraryData\bin\Debug\netcoreapp1.1\LibraryData.deps.json
+C:\Users\i336317\OneDrive - SAP SE\projects\library-management-system\LibraryData\bin\Debug\netcoreapp1.1\LibraryData.dll
+C:\Users\i336317\OneDrive - SAP SE\projects\library-management-system\LibraryData\bin\Debug\netcoreapp1.1\LibraryData.pdb
+C:\Users\i336317\OneDrive - SAP SE\projects\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.csprojAssemblyReference.cache
+C:\Users\i336317\OneDrive - SAP SE\projects\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\i336317\OneDrive - SAP SE\projects\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.AssemblyInfoInputs.cache
+C:\Users\i336317\OneDrive - SAP SE\projects\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.AssemblyInfo.cs
+C:\Users\i336317\OneDrive - SAP SE\projects\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.dll
+C:\Users\i336317\OneDrive - SAP SE\projects\library-management-system\LibraryData\obj\Debug\netcoreapp1.1\LibraryData.pdb
